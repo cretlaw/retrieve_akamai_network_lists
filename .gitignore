@@ -1,5 +1,6 @@
 .edgerc
 ignorespace
+akamai_network_lists.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +132,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 ignorespace
+akamai_network_lists.xlsx
